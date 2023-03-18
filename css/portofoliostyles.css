@@ -265,11 +265,11 @@ textarea {
     margin-top: 10px;
 }
 
-label.form-item:focus-within {
+.form-item:focus-within {
     fill: var(--brand-blue);
 }
 
-label.form-item :focus-within input {
+.form-item:focus-within input {
     border-color: var(--brand-blue);
 }
 
